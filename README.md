@@ -1,7 +1,5 @@
 # Dynamic-Web
 
-# Mia's Weekly Homework
-
 ## Week 1 Net Art
 A journal about: Goshogawara Tachineputa Festival 2024
 
